@@ -1,0 +1,11 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+
+    I chose python as I was already familiar with the language and am using it for my classes this semester, one of them touching on web scraping with Flask. Due to that, I chose to use Flask as I knew I would be able to look up documentation for it and implement a solution to the problem easily with it. I used datetime to note the timestamp as that seemed like the simplest way to do it using python.
+
+2. What are the advantages and disadvantages of your solution?
+
+    The advantages of this solution is that it is pretty simple to understand and extend the functionality of the API. The code seems to handle to core functions efficiently as well and is able to directly read in JSON files from a command line argument, making it easy to use. The disadvantages of this solution is that it assumes that every input is valid and needs the server to be restarted for every JSON file.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+    I recently finished a game jam held by the University of Wisconsin Madison, where my team and I challenged ourselves to make a 3D game. I was mostly in charge of the menu and dialogue implementation, which challenged me as I had to make sure the menu changed the settings for the entire game instead of just one level. I also had to create a dialogue system from scratch, where I had to make a script that read a JSON file and sent a signal to display the text on that JSON file in a dialogue box in the game. I had a lot of fun figuring out what the most efficient way to implement it was and am proud of how our game turned out.
